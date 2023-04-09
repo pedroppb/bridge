@@ -1,4 +1,4 @@
-package bridge;
+package bridgeppb;
 
 public class MagiaMediana implements StatusBonus {
     @Override

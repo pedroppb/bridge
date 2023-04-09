@@ -1,4 +1,4 @@
-package bridge;
+package bridgeppb;
 
 public class MonstroTeste extends TipoMonstro{
 

@@ -1,4 +1,4 @@
-package bridge;
+package bridgeppb;
 
 public abstract class TipoMonstro {
     protected StatusBonus bonus;

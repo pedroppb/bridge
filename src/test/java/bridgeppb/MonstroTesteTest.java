@@ -1,4 +1,4 @@
-package bridge;
+package bridgeppb;
 
 import org.junit.jupiter.api.Test;
 

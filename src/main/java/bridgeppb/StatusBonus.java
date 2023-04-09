@@ -1,4 +1,4 @@
-package bridge;
+package bridgeppb;
 
 public interface StatusBonus {
     float getMultiplicadorBonus();

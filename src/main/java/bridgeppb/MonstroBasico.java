@@ -1,4 +1,4 @@
-package bridge;
+package bridgeppb;
 
 public class MonstroBasico extends TipoMonstro{
     public MonstroBasico(float exp) {
